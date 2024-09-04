@@ -11,10 +11,12 @@ const Footer = () => {
            */}
           <h1>SpeedEats.</h1>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos
-            ratione accusamus corporis natus incidunt fuga non sit. Tempore ea
-            dolorem ab odio, ducimus dolorum, neque qui fugiat adipisci beatae
-            doloremque!
+            At SpeedEats, we're passionate about delivering delicious meals
+            right to your doorstep. Our mission is to make online food ordering
+            a breeze, offering a wide variety of dishes from your favorite local
+            restaurants. With a focus on quality, speed, and customer
+            satisfaction, we strive to provide a seamless experience that
+            satisfies your cravings, anytime, anywhere.
           </p>
           <div className="footer-social-icons">
             <img src={assets.facebook_icon} alt="" />
@@ -34,7 +36,7 @@ const Footer = () => {
         <div className="footer-content-right">
           <h2>GET IN TOUCH</h2>
           <ul>
-            <li>+91-9634742440</li>
+            <li>+91-449996969</li>
             <li>contact@speedeats.com</li>
           </ul>
         </div>

@@ -10,10 +10,9 @@ const ExploreMenu = ({ category, setCategory }) => {
     <div className="explore-menu">
       <h1>Explore Our Menu</h1>
       <p className="explore-menu-text">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt
-        explicabo sint reiciendis eaque harum ea, animi id voluptatem nihil
-        blanditiis itaque tempore quidem aliquam enim molestiae, ipsum error
-        architecto dolorem.
+        Discover a wide range of mouth-watering dishes, from appetizers to
+        desserts, all conveniently categorized for easy browsing. Customize your
+        order with just a few clicks and satisfy your cravings with SpeedEats.
       </p>
       <div className="explore-menu-list">
         {menu_list.map((item, index) => (

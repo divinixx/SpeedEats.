@@ -6,6 +6,7 @@ import Home from './pages/Home/Home';
 import Cart from './pages/Cart/Cart';
 import PlaceOrder from './pages/PlaceOrder/PlaceOrder';
 import Footer from './components/Footer/Footer';
+import ExploreMenu from './components/ExploreMenu/ExploreMenu';
 import { useState } from 'react';
 const App = () => {
   const [showLogin, setShowLogin] = useState(false);
